@@ -2,6 +2,7 @@
 Study records for TensorFlow by ZerotoMastery
 [Origin Course Repo](https://github.com/mrdbourke/tensorflow-deep-learning)
 
+# Neural Network
  ## Learning Material 📗
  1. [What is Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)
  2. [Gradient descent, how neural networks learn.](https://www.youtube.com/watch?v=IHZwWFHWa-w)
@@ -12,3 +13,14 @@ Study records for TensorFlow by ZerotoMastery
 
 ## Datasets
 * [Kaggle](https://www.kaggle.com/datasets)
+
+# Transfer Learning
+## Learning Material
+[TensorFlow - Transfer Learning](https://www.tensorflow.org/tutorials/images/transfer_learning)  
+[Transfer Learning with TensorFlow Hub](https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub)
+
+# Packages
+| Topics | Tutorial Links |
+| ------ | -------------- |
+| Keras Developer Tutorial| [The functional API](https://keras.io/guides/functional_api/#the-functional-api)|
+| TensorFlow | [Data augmentation](),  [`tf.keras.applications`](https://www.tensorflow.org/api_docs/python/tf/keras/applications)|
