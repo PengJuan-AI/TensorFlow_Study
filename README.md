@@ -15,15 +15,17 @@ Study records for TensorFlow by ZerotoMastery
 * [Kaggle](https://www.kaggle.com/datasets)
 
 # Transfer Learning
-Experiment1 TensorBoard: [EfficientNetB0 vs. ResNet50V2](https://tensorboard.dev/experiment/aJUqjNfOTdmzOI6Ve0HR1Q/#scalars)
-Experiment2 TensorBoard: [Transfer Learning Experiments with 10 Food101 Classes]()
+| Result Type | Results Links |
+| ------ | -------------- |
+|TensorBoard | [EfficientNetB0 vs. ResNet50V2](https://tensorboard.dev/experiment/aJUqjNfOTdmzOI6Ve0HR1Q/#scalars), [Transfer Learning Experiments with 10 Food101 Classes]()|
+| Models | [Fine-tuned EfficientNetB0 with 10% of Food101](https://drive.google.com/drive/folders/1QlFZblJZpa1PzxFeO1COvlpRcDK0GAEq)
 
 ## Learning Material
 [TensorFlow - Transfer Learning](https://www.tensorflow.org/tutorials/images/transfer_learning)  
 [Transfer Learning with TensorFlow Hub](https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub)
 
-# Packages
+# Packages you should get familiar with
 | Topics | Tutorial Links |
 | ------ | -------------- |
 | Keras Developer Tutorial| [The functional API](https://keras.io/guides/functional_api/#the-functional-api)|
-| TensorFlow | [Data augmentation](),  [`tf.keras.applications`](https://www.tensorflow.org/api_docs/python/tf/keras/applications)|
+| TensorFlow | [Data augmentation](https://www.tensorflow.org/tutorials/images/data_augmentation),  [`tf.keras.applications`](https://www.tensorflow.org/api_docs/python/tf/keras/applications)|
