@@ -17,7 +17,7 @@ Study records for TensorFlow by ZerotoMastery
 # Transfer Learning
 | Result Type | Results Links |
 | ------ | -------------- |
-|TensorBoard | [EfficientNetB0 vs. ResNet50V2](https://tensorboard.dev/experiment/aJUqjNfOTdmzOI6Ve0HR1Q/#scalars), [Transfer Learning Experiments with 10 Food101 Classes]()|
+|TensorBoard | [EfficientNetB0 vs. ResNet50V2](https://tensorboard.dev/experiment/aJUqjNfOTdmzOI6Ve0HR1Q/#scalars), [Transfer Learning Experiments with 10 Food101 Classes](https://tensorboard.dev/experiment/ROOFkeT1TBKHpzpqFoRatQ/#scalars)|
 | Models | [Fine-tuned EfficientNetB0 with 10% of Food101](https://drive.google.com/drive/folders/1QlFZblJZpa1PzxFeO1COvlpRcDK0GAEq)
 
 ## Learning Material
