@@ -1,4 +1,4 @@
-# Deep Learning with TensorFlow_Study with Hands-on Experiments
+# Deep Learning with TensorFlow with Hands-on Experiments
 Study records for TensorFlow by ZerotoMastery
 [Origin Course Repo](https://github.com/mrdbourke/tensorflow-deep-learning)
 
@@ -16,7 +16,11 @@ Study records for TensorFlow by ZerotoMastery
 * [Kaggle](https://www.kaggle.com/datasets)
 * [TensorFlow Datasets(TFDS)](https://www.tensorflow.org/datasets)
 
-# Transfer Learning
+# Transfer Learning on Computer Vision (Food101)
+
+## Description
+In the module, I completed two projects [Food101 mini](https://github.com/PengJuan-AI/TensorFlow_Study/blob/main/06_transfer_learning_in_tensorflow_part_3_scaling_up.ipynb) and [Food101 big](https://github.com/PengJuan-AI/TensorFlow_Study/blob/main/07_milstone_project_1_food_vision.ipynb). Food101 mini was trained on 10% of the total Food101 datasets, while Food101 big was trained on the whole Food101 datasets.
+
 | Result Type | Results Links |
 | ------ | -------------- |
 |TensorBoard | [EfficientNetB0 vs. ResNet50V2](https://tensorboard.dev/experiment/aJUqjNfOTdmzOI6Ve0HR1Q/#scalars), [Transfer Learning Experiments with 10 Food101 Classes](https://tensorboard.dev/experiment/ROOFkeT1TBKHpzpqFoRatQ/#scalars), [EfficientNetB0_with_full_Food101](https://tensorboard.dev/experiment/kIo72WbGQ5ODUwnjBZW0Kw/#scalars)|
@@ -31,3 +35,4 @@ Study records for TensorFlow by ZerotoMastery
 | ------ | -------------- |
 | Keras Developer Tutorial| [The functional API](https://keras.io/guides/functional_api/#the-functional-api)|
 | TensorFlow | [Data augmentation](https://www.tensorflow.org/tutorials/images/data_augmentation),  [`tf.keras.applications`](https://www.tensorflow.org/api_docs/python/tf/keras/applications)|
+| TFDS | [TensorFlow Datasets](https://www.tensorflow.org/datasets)|
