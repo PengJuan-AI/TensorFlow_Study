@@ -23,7 +23,7 @@ In the module, I completed two projects [Food101 mini](https://github.com/PengJu
 
 | Result Type | Results Links |
 | ------ | -------------- |
-|TensorBoard | [EfficientNetB0 vs. ResNet50V2](https://tensorboard.dev/experiment/aJUqjNfOTdmzOI6Ve0HR1Q/#scalars), [Transfer Learning Experiments with 10 Food101 Classes](https://tensorboard.dev/experiment/ROOFkeT1TBKHpzpqFoRatQ/#scalars), [EfficientNetB0_with_full_Food101](https://tensorboard.dev/experiment/kIo72WbGQ5ODUwnjBZW0Kw/#scalars)|
+|TensorBoard | [EfficientNetB0 vs. ResNet50V2](https://tensorboard.dev/experiment/aJUqjNfOTdmzOI6Ve0HR1Q/#scalars), [Transfer Learning Experiments with 10 Food101 Classes](https://tensorboard.dev/experiment/ROOFkeT1TBKHpzpqFoRatQ/#scalars), [EfficientNetB0_with_full_Food101](https://tensorboard.dev/experiment/kIo72WbGQ5ODUwnjBZW0Kw/#scalars), [Experiments on NLP problem](https://tensorboard.dev/experiment/PAQVQB3xSO6zcvZrIR4bKw/#scalars)|
 | Models | [Fine-tuned EfficientNetB0 with 10% of Food101](https://drive.google.com/drive/folders/1QlFZblJZpa1PzxFeO1COvlpRcDK0GAEq), [Food101_full_data_EfficientNetB0_feature_extraction](/content/drive/MyDrive/tf_models/Food101_feature_extraction)
 
 ## Learning Materials
@@ -36,3 +36,4 @@ In the module, I completed two projects [Food101 mini](https://github.com/PengJu
 | Keras Developer Tutorial| [The functional API](https://keras.io/guides/functional_api/#the-functional-api)|
 | TensorFlow | [Data augmentation](https://www.tensorflow.org/tutorials/images/data_augmentation),  [`tf.keras.applications`](https://www.tensorflow.org/api_docs/python/tf/keras/applications)|
 | TFDS | [TensorFlow Datasets](https://www.tensorflow.org/datasets)|
+| Text Classification| [Classify text with TensorFlow](https://www.tensorflow.org/text/tutorials/text_classification_rnn)|
